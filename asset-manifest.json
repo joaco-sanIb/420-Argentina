@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/420-Argentina/static/css/main.c9c10c5c.css",
+    "main.js": "/420-Argentina/static/js/main.9eb41e2c.js",
+    "static/js/787.0427a8f8.chunk.js": "/420-Argentina/static/js/787.0427a8f8.chunk.js",
+    "static/media/BanerTest1.jpg": "/420-Argentina/static/media/BanerTest1.a5794198bbe76e90ba5a.jpg",
+    "index.html": "/420-Argentina/index.html",
+    "main.c9c10c5c.css.map": "/420-Argentina/static/css/main.c9c10c5c.css.map",
+    "main.9eb41e2c.js.map": "/420-Argentina/static/js/main.9eb41e2c.js.map",
+    "787.0427a8f8.chunk.js.map": "/420-Argentina/static/js/787.0427a8f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9c10c5c.css",
+    "static/js/main.9eb41e2c.js"
+  ]
+}
